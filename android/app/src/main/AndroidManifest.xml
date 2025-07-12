@@ -23,7 +23,7 @@
     <application
         android:label="tasknotifier"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <!-- ============= ADD THESE RECEIVERS ============= -->
         <!-- Handles showing scheduled notifications -->
         <receiver 
