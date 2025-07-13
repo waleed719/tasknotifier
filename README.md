@@ -30,7 +30,7 @@
 
 ## 📆 Download APK
 
-> ✅ [Download Latest APK (Google Drive)](https://drive.google.com/file/d/16RRZxvQamc8GugIn3Bj_-bIqErkjYDZu/view?usp=sharing)
+> ✅ [Download Latest APK (Google Drive)](https://drive.google.com/file/d/1-Z35oky7jzbiUZXRqcuGqAqc_iZ3QXjc/view?usp=sharing)
 
 📂 Or check `build/app/outputs/flutter-apk/app-release.apk` after building locally.
 
